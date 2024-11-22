@@ -2,16 +2,10 @@
 A Dockerized Spring Boot project for seamless SQL database connectivity, demonstrating how to configure and run a Spring Boot application with SQL database integration using Docker containers.
 
 ## Steps to do so:
-MySQL Docker + Spring Boot Connection Guide
+(MySQL Docker + Spring Boot)
 
-This guide walks you through setting up a MySQL container in Docker and connecting it to a Spring Boot application. This setup helps streamline your development by running MySQL in a Docker container and makes it easy to connect to your application.
+It walks through setting up a MySQL container in Docker and connecting it to a Spring Boot application. Ezing your development by running MySQL in a Docker container and makes it easy to connect to your application.
 
-Prerequisites
-
-Make sure you have:
-
-Docker installed on your machine
-Basic knowledge of Spring Boot application properties configuration
 Steps to Set Up MySQL in Docker
 
 ### Step 1: Pull the MySQL Docker Image
